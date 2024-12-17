@@ -1,6 +1,6 @@
 # Excel Challenge #
 
-This is Joe Portnoy's Crowdfunding Excel Challenge submissions. I have provided my answers to the questions below as well as in the document in the enclosed folder.
+This is Joe Portnoy's Crowdfunding Excel Challenge submissions. I have provided my answers to the questions below as well as in the document called "Data Analysis.docx"
 
 
 ## Data analysis ##
